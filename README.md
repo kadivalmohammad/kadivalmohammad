@@ -1,39 +1,270 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kadival</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning | Deep Learning | Generative AI | Artificial Intelligence | LLM’s | Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadivalmohammad&label=Profile%20views&color=0e75b6&style=flat" alt="kadivalmohammad" /> </p>
+<h3 align="center">
+Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI • LLMs • Python
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadivalmohammad" alt="kadivalmohammad" /></a> </p>
-
-- 🔭 I’m currently working on **AI & Data Science Projects**
-
-- 🌱 I’m currently learning **Python, SQL, Machine Learning, Deep Learning & GenAI**
-
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning & AI Projects**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning & Generative AI**
-
-- 📝 I regularly write articles on [Data Science, AI & Technology](Data Science, AI & Technology)
-
-- 💬 Ask me about **Python, SQL, Preprocessing, Visualization, Data Analysis & Machine Learning**
-
-- 📫 How to reach me **mukitech2007@gmail.com**
-
-- ⚡ Fun fact **I love turning data into meaningful insights 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kadival_mohamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadival_mohamad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kadival-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadival-mohammad" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohammadkadival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadkadival" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamad_kadival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamad_kadival" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/kadivalmohammad">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Learning+Deep+Learning+%26+Generative+AI;Turning+Data+Into+Meaningful+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kadivalmohammad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/kadivalmohammad?tab=followers">
+    <img src="https://img.shields.io/github/followers/kadivalmohammad?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://github.com/kadivalmohammad">
+    <img src="https://img.shields.io/github/stars/kadivalmohammad?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Stars" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadivalmohammad&show_icons=true&locale=en&layout=compact" alt="kadivalmohammad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadivalmohammad&show_icons=true&locale=en" alt="kadivalmohammad" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadivalmohammad&" alt="kadivalmohammad" /></p>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA2NjE3Y2Y4N2M2N2Y4N2E4NjQxYmJlZTk4ODVlNzQwYjA5ZTViMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" />
+
+🔭 Currently working on **AI & Data Science Projects**
+
+🌱 Currently learning **Python, SQL, Machine Learning, Deep Learning & Generative AI**
+
+👯 Looking to collaborate on **Data Science, Machine Learning & AI Projects**
+
+🤝 Looking for guidance in **Advanced Machine Learning, Deep Learning & Generative AI**
+
+💬 Ask me about **Python, SQL, Data Analysis, Data Visualization, Data Preprocessing & Machine Learning**
+
+📫 Reach me at **[mukitech2007@gmail.com](mailto:mukitech2007@gmail.com)**
+
+⚡ Fun fact: **I love turning raw data into meaningful insights and intelligent solutions 🚀**
+
+<br clear="both"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kadival-mohammad">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/kadival_mohamad">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://kaggle.com/mohammadkadival">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/mohamad_kadival">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:mukitech2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
+
+<a href="https://www.java.com">
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+</a>
+
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>
+
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server">
+<img src="https://skillicons.dev/icons?i=sqlserver" height="45"/>
+</a>
+
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,docker" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadivalmohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadivalmohammad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kadivalmohammad&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadivalmohammad&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kadivalmohammad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 Customer Churn Prediction
+
+Machine Learning project that analyzes customer behavior and predicts the probability of customer churn.
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
+
+🔗 Add your GitHub project repository link here
+
+---
+
+### 🌸 Iris Flower Classification
+
+Machine Learning project that classifies Iris flowers using different features.
+
+**Technologies:** Python • Pandas • Scikit-learn • Random Forest
+
+🔗 Add your GitHub project repository link here
+
+---
+
+### 📊 Data Analysis Projects
+
+A collection of projects focused on data cleaning, exploratory data analysis, visualization and extracting insights from datasets.
+
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+🔗 Add your GitHub project repository link here
+
+---
+
+# 🚀 Current Focus
+
+```text
+📊 Data Analysis
+🤖 Machine Learning
+🧠 Deep Learning
+✨ Generative AI
+🔗 Large Language Models
+📈 Building Real-World Data Science Projects
+```
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-02569B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kadivalmohammad/kadivalmohammad/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, feel free to explore my repositories and connect with me!
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
