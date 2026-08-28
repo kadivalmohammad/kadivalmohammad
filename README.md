@@ -24,7 +24,7 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA2NjE3Y2Y4N2M2N2Y4N2E4NjQxYmJlZTk4ODVlNzQwYjA5ZTViMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" />
+
 
 🔭 Currently working on **AI & Data Science Projects**
 
@@ -79,19 +79,19 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 <p align="left">
 
 <a href="https://www.python.org">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 </a>
 
 <a href="https://www.java.com">
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 </a>
 
 <a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
 </a>
 
 <a href="https://www.cprogramming.com/">
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
 </a>
 
 </p>
@@ -100,10 +100,12 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<a href="https://www.python.org">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</a>
 
 <a href="https://numpy.org/">
-<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
 </a>
 
 <a href="https://pandas.pydata.org/">
@@ -115,11 +117,11 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 </a>
 
 <a href="https://www.tensorflow.org/">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
 </a>
 
 <a href="https://pytorch.org/">
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
 </a>
 
 </p>
@@ -129,11 +131,11 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 <p align="left">
 
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://skillicons.dev/icons?i=sqlserver" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45"/>
 </a>
 
 </p>
@@ -142,7 +144,29 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,docker" />
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+</a>
+
+<a href="https://jupyter.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+</a>
 
 </p>
 
@@ -152,11 +176,12 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadivalmohammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadivalmohammad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadivalmohammad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
@@ -174,7 +199,7 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadivalmohammad&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadivalmohammad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </p>
 
@@ -184,7 +209,7 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kadivalmohammad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=kadivalmohammad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </p>
 
