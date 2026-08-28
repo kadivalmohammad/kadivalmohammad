@@ -6,7 +6,7 @@ Aspiring Data Scientist • Machine Learning • Deep Learning • Generative AI
 
 <p align="center">
   <a href="https://github.com/kadivalmohammad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Learning+Deep+Learning+%26+Generative+AI;Turning+Data+Into+Meaningful+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning;Deep+Learning+%26+Generative+AI;Turning+Data+Into+Meaningful+Insights+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
